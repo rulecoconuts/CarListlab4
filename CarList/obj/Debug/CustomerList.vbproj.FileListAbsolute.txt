@@ -1,0 +1,23 @@
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojResolveAssemblyReference.cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.Cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojAssemblyReference.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.CoreCompileInputs.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CustomerList.pdb

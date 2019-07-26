@@ -1,0 +1,12 @@
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.vbprojAssemblyReference.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.vbproj.GenerateResource.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.vbproj.CoreCompileInputs.cache
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.frmCarList.resources
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.Resources.resources
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CarList.exe.config
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CarList.exe
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CarList.pdb
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\bin\Debug\CarList.xml
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.exe
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.xml
+C:\Users\rulec\Downloads\Lab 04 Sample - Customer List\CustomerList\CustomerList\obj\Debug\CarList.pdb
